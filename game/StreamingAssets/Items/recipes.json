@@ -1,0 +1,86 @@
+[
+    {
+        "_comment": "Crude Axe",
+        "id": 1,
+        "ingredients": [
+            {
+                "id": "10006",
+                "quantity": 2
+            },
+            {
+                "id": "10005",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Standard Axe",
+        "id": 2,
+        "ingredients": [
+            {
+                "id": "10000",
+                "quantity": 3
+            },
+            {
+                "id": "10001",
+                "quantity": 3
+            },
+            {
+                "id": "10002",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Crude Spear",
+        "id": 20,
+        "ingredients": [
+            {
+                "id": "10001",
+                "quantity": 1
+            },
+            {
+                "id": "10002",
+                "quantity": 2
+            },
+            {
+                "id": "10003",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Campfire",
+        "id": 10009,
+        "ingredients": [
+            {
+                "id": "10007",
+                "quantity": 6
+            },
+            {
+                "id": "10008",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Dull Wood Stick",
+        "id": 10002,
+        "ingredients": [
+            {
+                "id": "10006",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Refined Stone",
+        "id": 10001,
+        "ingredients": [
+            {
+                "id": "10000",
+                "quantity": 2
+            }
+        ]
+    }
+]

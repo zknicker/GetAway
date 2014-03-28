@@ -1,0 +1,80 @@
+[
+    {
+        "id": 10000,
+        "name": "Unrefined Stone",
+        "description": "Weak stone taken straight from the ground.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10001,
+        "name": "Refined Stone",
+        "description": "Stone that has been refined into a stronger form.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10002,
+        "name": "Dull Wood Stick",
+        "description": "A practically useless stick. Do you really want this?",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10003,
+        "name": "Vine",
+        "description": "A vine. Naturally bendy!",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10004,
+        "name": "Raptor Leg",
+        "description": "Mmm... tasty! Wait, is this safe to eat?",
+        "type": "CONSUMABLE",
+        "health": 10,
+        "hunger": 20,
+    	"sanity": 1
+    },
+    {
+        "id": 10005,
+        "name": "Beach Rock",
+        "description": "Some weak rocks found on the beach. Useful for crafting.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10006,
+        "name": "Drift Wood",
+        "description": "Weak sticks washed ashore from old trees. Useful for crafting.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10007,
+        "name": "Log",
+        "description": "Large logs perfect for burning.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10008,
+        "name": "Lighter",
+        "description": "It makes fire!",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10009,
+        "name": "Campfire",
+        "description": "The crowning achievement of man: a sustainable source of warmth and hope. What will the dinosaurs think?",
+        "type": "USEABLE"
+    },
+    {
+    	"id": 10010,
+    	"name": "Berry",
+    	"description": "Random berry for eating, don't know the effects though.",
+    	"type": "CONSUMABLE",
+        "health": 0,
+        "hunger": 0,
+    	"sanity": -1
+    },
+    {
+    	"id": 10011,
+    	"name": "Raft",
+    	"description": "The thing you have been waiting for. ESCAPE NOW!",
+    	"type": "USEABLE"
+    }
+]

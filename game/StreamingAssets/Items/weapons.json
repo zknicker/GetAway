@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Crude Ax",
+        "description": "An improvised ax created from basic materials found on the beach. Not very useful.",
+        "type": "EQUIPABLE",
+        "weapontype": "ax",
+        "damage": 50,
+        "durability": 100
+    },
+    {
+        "id": 2,
+        "name": "Standard Ax",
+        "description": "An ax constructed from average materials. It works.",
+        "type": "EQUIPABLE",
+        "weapontype": "ax",
+        "damage": 50,
+        "durability": 100
+    },
+    {
+        "id": 20,
+        "name": "Crude Spear",
+        "description": "A spear constructed from basic materials. You can use it to poke things.",
+        "type": "EQUIPABLE",
+        "weapontype": "spear",
+        "damage": 60,
+        "durability": 80
+    },
+    {
+        "id": 1337,
+        "name": "Sean's Spear",
+        "description": "The most powerful weapon ever.",
+        "type": "EQUIPABLE",
+        "weapontype": "spear",
+        "damage": 1337,
+        "durability": 9999
+    }
+]
