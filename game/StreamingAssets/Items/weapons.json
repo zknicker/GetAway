@@ -34,5 +34,32 @@
         "weapontype": "spear",
         "damage": 1337,
         "durability": 9999
+    },
+    {
+        "id": 40,
+        "name": "Crude Bow",
+        "description": "A basic bow with basic arrows for doing basic things.",
+        "type": "EQUIPABLE",
+        "weapontype": "bow",
+        "damage": 60,
+        "durability": 80
+    },
+    {
+        "id": 41,
+        "name": "Strong Bow",
+        "description": "A bow capable of firing arrows at greater speeds to deal greater damage.",
+        "type": "EQUIPABLE",
+        "weapontype": "bow",
+        "damage": 120,
+        "durability": 100
+    },
+    {
+        "id": 60,
+        "name": "Torch",
+        "description": "A stick which has been lit on fire to aid in your dark adventures.",
+        "type": "EQUIPABLE",
+        "weapontype": "torch",
+        "damage": 10,
+        "durability": 200
     }
 ]
