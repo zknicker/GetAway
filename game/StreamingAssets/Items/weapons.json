@@ -1,30 +1,33 @@
 [
     {
         "id": 1,
-        "name": "Crude Ax",
-        "description": "An improvised ax created from basic materials found on the beach. Not very useful.",
+        "name": "Crude Axe",
+        "description": "An improvised ax created from basic materials.",
         "type": "EQUIPABLE",
         "weapontype": "ax",
-        "damage": 50,
-        "durability": 100
+        "damage": 30,
+        "durability": 100,
+        "ammo": -1
     },
     {
         "id": 2,
-        "name": "Standard Ax",
-        "description": "An ax constructed from average materials. It works.",
+        "name": "Standard Axe",
+        "description": "An axe constructed from average materials. It works.",
         "type": "EQUIPABLE",
         "weapontype": "ax",
-        "damage": 50,
-        "durability": 100
+        "damage": 60,
+        "durability": 100,
+        "ammo": -1
     },
     {
         "id": 20,
         "name": "Crude Spear",
-        "description": "A spear constructed from basic materials. You can use it to poke things.",
+        "description": "A spear constructed from basic materials. Go poke things.",
         "type": "EQUIPABLE",
         "weapontype": "spear",
-        "damage": 60,
-        "durability": 80
+        "damage": 50,
+        "durability": 80,
+        "ammo": -1
     },
     {
         "id": 1337,
@@ -33,7 +36,8 @@
         "type": "EQUIPABLE",
         "weapontype": "spear",
         "damage": 1337,
-        "durability": 9999
+        "durability": 9999,
+        "ammo": -1
     },
     {
         "id": 40,
@@ -41,17 +45,19 @@
         "description": "A basic bow with basic arrows for doing basic things.",
         "type": "EQUIPABLE",
         "weapontype": "bow",
-        "damage": 60,
-        "durability": 80
+        "damage": 3,
+        "durability": 80,
+        "ammo": -1
     },
     {
         "id": 41,
         "name": "Strong Bow",
-        "description": "A bow capable of firing arrows at greater speeds to deal greater damage.",
+        "description": "A bow that fires arrows that deal greater damage.",
         "type": "EQUIPABLE",
         "weapontype": "bow",
-        "damage": 120,
-        "durability": 100
+        "damage": 6,
+        "durability": 100,
+        "ammo": -1
     },
     {
         "id": 60,
@@ -60,6 +66,7 @@
         "type": "EQUIPABLE",
         "weapontype": "torch",
         "damage": 10,
-        "durability": 200
+        "durability": 200,
+        "ammo": -1
     }
 ]

@@ -25,11 +25,12 @@
     },
     {
         "id": 10004,
-        "name": "Raptor Leg",
+        "name": "Dinosaur Leg",
         "description": "Mmm... tasty! Wait, is this safe to eat?",
         "type": "CONSUMABLE",
-        "health": 10,
+        "health": 40,
         "hunger": 20,
+        "thirst": 0,
     	"sanity": 1
     },
     {
@@ -59,7 +60,7 @@
     {
         "id": 10009,
         "name": "Campfire",
-        "description": "The crowning achievement of man: a sustainable source of warmth and hope. What will the dinosaurs think?",
+        "description": "The crowning achievement of man: Fire!",
         "type": "USEABLE"
     },
     {
@@ -67,9 +68,10 @@
     	"name": "Berry",
     	"description": "Random berry for eating, don't know the effects though.",
     	"type": "CONSUMABLE",
-        "health": 0,
-        "hunger": 0,
-    	"sanity": -1
+        "health": 10,
+        "hunger": 5,
+        "thirst": 0,
+    	"sanity": -10
     },
     {
     	"id": 10011,
@@ -82,14 +84,15 @@
     	"name": "Onion",
     	"description": "While smelly, onions make for a decent source of nutrition.",
     	"type": "CONSUMABLE",
-        "health": 0,
-        "hunger": 20,
+        "health": 5,
+        "hunger": 10,
+        "thirst": 0,
     	"sanity": 0
     },
     {
     	"id": 10013,
     	"name": "Dinosaur Bone",
-    	"description": "A bone from a real dinosaur. Strong and study, this might be useful for weapon crafting.",
+    	"description": "A bone from a real dinosaur. Useful for weapon crafting.",
     	"type": "DESTROYABLE"
     },
     {
@@ -101,7 +104,7 @@
     {
     	"id": 10015,
     	"name": "Flint",
-    	"description": "A special rock that produces sparks when struck with a hard material.",
+    	"description": "A rock that produces sparks when struck with a hard material.",
     	"type": "DESTROYABLE"
     },
     {
@@ -130,7 +133,7 @@
     },
     {
     	"id": 10020,
-    	"name": "Shaped Wood Plank",
+    	"name": "Shaped Plank",
     	"description": "A shaped wood plank. Perhaps useful as part of a paddle?",
     	"type": "DESTROYABLE"
     },
@@ -141,6 +144,16 @@
     	"type": "DESTROYABLE"
     },
     {
+    	"id": 10022,
+    	"name": "Coconut",
+    	"description": "A delicious snack that falls from trees.",
+    	"type": "CONSUMABLE",
+        "health": 0,
+        "hunger": 5,
+        "thirst": 20,
+    	"sanity": 0
+    },
+    {
     	"id": 20000,
     	"name": "Raft Paddle",
     	"description": "A useful tool for paddling through water in a raft.",
@@ -148,8 +161,8 @@
     },
     {
     	"id": 20001,
-    	"name": "Raft Support Structure",
-    	"description": "The support structure, crafted from reinforced wood, for a raft.",
+    	"name": "Raft Support",
+    	"description": "A raft support structure, crafted from reinforced wood.",
     	"type": "DESTROYABLE"
     },
     {

@@ -28,7 +28,8 @@
 			"Refrigerator - Barry from Archibaseplanet.com",
 			"Kitchen - Oleg Temonov from Archibaseplanet.com",
 			"Plants and Rocks - Yughues aka Nobiax from Sharcg.com",
-			"Boat Model - Low-Poly Wooden Row Boat by VR"
+			"Boat Model - Low-Poly Wooden Row Boat by VR",
+			"Ax - jc_lvngstn from forum.unity3d.com"
         ]
     },
     {
@@ -53,6 +54,20 @@
        		"Spear Swing - thecluegeek from Freesound.org",
        		"Torch Swing - qudobup from Freesound.org",
        		"Voices - geoneo0 from Freesound.org",
+       		"Eating - dersuperanton from Freesound.org",
+       		"Equip - punpcklbw from Freesound.org",
+       		"Destroy - kevinkace from Freesound.org",
+       		"Use - Connersaw64 from Freesound.org",
+       		"Page Turn - DaveOfDeafeat2248 from Freesound.org",
+       		"Crafting - Dvideoguy from Freesound.org",
+       		"Arrow - smcarmeron from Freesound.org",
+       		"Bow - JConti from Freesound.org",
+       		"Logs - CGEffex from Freesound.org",
+       		"Splash -  mckinneysound from Freefx.co.uk",
+       		"Propeller - Soundjay.com",
+       		"Woosh - blastwavefx from Freefx.co.uk",
+       		"Jump - Babylon_Horuv from Freesound.org",
+       		"Damage - Primeval_Polypod from Freesound.org"
        	]
     },
     {
@@ -88,7 +103,7 @@
     	]
     },
     {
-        "header": "Thanks for playing",
+        "header": "Thanks for playing!",
         "items": []
     }
 ]
