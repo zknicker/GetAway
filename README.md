@@ -1,4 +1,5 @@
 # GetAway Website
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/zknicker/GetAway?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 GetAway is a game where the player, stranded on an island, must survive the dinosaurs that inhabit the surrounding area to ultimately escape on a crafted raft. The game features intelligent dinosaurs, a reasonably complex crafting system, procedurally generated island terrain, and a slew of other features.
 
